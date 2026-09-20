@@ -1,0 +1,58 @@
+# ==========================================
+# Python Bytecode & Cache
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# ==========================================
+# Entornos Virtuales y Dependencias
+# ==========================================
+venv/
+.venv/
+env/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
+# ==========================================
+# Compilación y Empaquetado (PyInstaller)
+# ==========================================
+dist/
+build/
+*.spec
+!DLP.spec
+*.exe
+
+# ==========================================
+# IDEs y Editores de Código
+# ==========================================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+.settings/
+
+# ==========================================
+# Archivos Temporales y del Sistema Operativo
+# ==========================================
+*.tmp
+*.temp
+*.bak
+*.log
+_temp_*.*
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# ==========================================
+# Secretos y Variables de Entorno Locales
+# ==========================================
+.env
+.env.local
+.env.*.local

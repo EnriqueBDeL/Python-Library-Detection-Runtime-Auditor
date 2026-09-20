@@ -1,0 +1,6 @@
+# ==========================================
+# Dependencias de Python Library Detection
+# Desarrollado por: EnriqueBDL
+# ==========================================
+Pillow>=10.0.0
+pyinstaller>=6.0.0
